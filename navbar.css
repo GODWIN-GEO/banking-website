@@ -1,0 +1,39 @@
+
+  #navbar {
+  overflow: hidden;
+  height: 5500px;
+  background-color: black;
+  height: 50px;
+  font-size: 20px;
+  padding: 25px;
+}
+  #navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+
+  
+  
+}
+.hello{
+  margin-left: 900px;
+}
+.hello:hover {
+  background-color: #83c9d4;
+  border-radius: 15px;
+
+}
+.bye{
+    margin-left: 60px;
+}
+.bye:hover{
+  background-color: #83c9d4;
+  border-radius: 15px;
+}
+.hi:hover{
+  background-color: black;
+  border-radius: 15px;
+}
