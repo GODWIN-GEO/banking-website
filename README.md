@@ -1,4 +1,3 @@
-https://github.com/shraddha635/Banksite
+https://github.com/GODWIN-GEO/banking-website
 
-
-Basic Banking System Website for The Sparks Foundation Internship this is a simple credit management system given in sparks foundation internship program. There are 10 dummy users which are used to transfer credits between them and show the transaction history.
+This is a basic banking system website for The sparks foundation Internship. This project is done by using php and mysql.It has 10 dummy users in database.we can send money to those users and transaction history will be stored in database.
